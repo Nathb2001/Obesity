@@ -4,9 +4,9 @@ Welcome! This WebApp uses Bayesian Networks to diagnose obesity after asking the
 
 ## Features of this repo
 
-- **Exploratory Data Analysis** - Learn how to analyse data identifying between Obesity and user demographics!
+- **Exploratory Data Analysis** - Find out how to analyse data identifying between Obesity and user demographics!
 - **Data Cleaning & Preprocessing** - Learn how to prepare a dataset so it can be used for Algorithms to generate Bayesian Networks and make causal inferences!
 - **Structural Learning Algorithms** - Learn about the algorithms that can create Bayesian Networks and understand how to evaluate them.
-- **Causal Inference** - Learn how to make predictions with the Bayesian Network using the Python Library pyAgrum.
-- **Counterfactual Modelling** - Learn how to do modelling to see the alternate outcomes of patients if they had made different lifestyle choices. 
+- **Causal Inference** - Discover how to make predictions with the Bayesian Network using the Python Library pyAgrum.
+- **Counterfactual Modelling** - See how to do modelling to see the alternate outcomes of patients if they had made different lifestyle choices. 
 - **Model Deployment and Monitoring** - Explore the code used for implementing the Network online for future predictions and how to connect user activity to a relational database and monitor the model.
