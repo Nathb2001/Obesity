@@ -2,4 +2,4 @@ streamlit==1.38.0
 numpy==1.26.4
 pandas==1.5.3
 st-gsheets-connection==0.1.0
-pyAgrum = 1.15.1
+pyAgrum==1.15.1
